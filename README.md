@@ -1,2 +1,5 @@
 # to-do
-Tech Bootcamp to-do mini project
+Women In Tech Bootcamp to-do mini project
+
+## Requirement
+Python
